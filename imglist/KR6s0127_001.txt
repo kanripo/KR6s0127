@@ -1,0 +1,3 @@
+001-1137c00	T 001-1137c	buddhist/T-taisho/T55/11/T55-1137.png
+001-1138a00	T 001-1138a	buddhist/T-taisho/T55/11/T55-1138.png
+001-1138b00	T 001-1138b	buddhist/T-taisho/T55/11/T55-1138.png
